@@ -1,0 +1,56 @@
+body{
+    background: grey;
+}
+
+.heading{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: #090c13;
+    background: beige;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+form{
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+    background: #6bcde3;
+    border: 1px solid #23338e;
+}
+
+
+button{
+    height: 25px;
+    background: #fff8dc;
+    border: 2px solid #19200c;
+    border-radius: 5px;
+   
+}
+
+
+ul{
+    border: none;
+    height: 30px;
+    padding: 2px;
+    font-size: 19px;
+    color: #ecefe6;
+    width: 50%;
+ 
+    border-collapse: collapse;
+}
+
+
+
+h2{
+    color:brown;
+   
+}
+
+a{
+    font-size: 25;
+    height: 25px;
+    width: 35px;
+}
